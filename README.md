@@ -4,7 +4,7 @@ This code is about how to use Azure Storage Queue as messaging service to implem
 ## Technologies used
 Azure Storage Queque (C#)
 
-Dapper (an high-performance ORM framework)
+Dapper (a high-performance ORM framework)
 
 RESTful API
 
